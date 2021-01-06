@@ -1,0 +1,24 @@
+
+body{
+
+    background-image: url(images/background.jpg);
+    background-size: cover;
+
+}
+.py-3{
+    background-color: #708090;
+
+}
+#header{
+ font-size: 30px;
+ align-items: center;
+}
+.menu{
+    align-items: center;
+}
+.row{
+    text-align: center;
+    font-size: 20px;
+    wrap-option: true;
+
+}
